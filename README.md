@@ -1,2 +1,3 @@
-# cs_scrolling_app
-scrolling app with computer sci tips
+# CS Scrolling App
+A TikTok-style app for coding tips and DSA tricks.
+Built with Flutter + Firebase.
